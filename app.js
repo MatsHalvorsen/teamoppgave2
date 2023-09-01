@@ -21,7 +21,7 @@ const img3 = [
 
 
 updateView();
-const coffeeInterval = setInterval(coffeeDrain, 1000);
+const coffeeInterval = setInterval(coffeeDrain, 5000);
 if (kaffometer < 0) {
     clearInterval(coffeeInterval);
 }
