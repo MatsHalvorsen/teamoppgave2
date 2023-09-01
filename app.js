@@ -63,7 +63,7 @@ function bananPower(){
 {
     kaffometer = 4;
 }
-const coffeeInterval = setInterval(coffeeDrain, 1000);  // Eternal life :)
+const coffeeInterval = setInterval(coffeeDrain, 5000);  // Eternal life :)
 showKaffometer(kaffometer);
  } 
  
