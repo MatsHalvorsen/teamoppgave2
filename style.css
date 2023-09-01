@@ -21,6 +21,7 @@ img {
 #imgContainer {
     display: flex;
     justify-items: center;
+    width: 800px;
 }
 
 #img1{
@@ -31,4 +32,4 @@ img {
 button {
     font-size: 2rem;
     border-radius: 15%;
-}
+}8
